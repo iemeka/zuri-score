@@ -1,0 +1,39 @@
+working app
+  - working percentage calculation : checked.
+Error handling and validation - 
+  - display Error
+  - remove error message
+Optimization - useRef, useCallback, useEFfect.. etc.
+Styling
+  - Dribble
+    - background - #2b3136
+    - percentage background - #b3cfcc
+    - percentage text - #2b3136
+    - error text - #ff8049
+    - input line - boder-color 2px like a glass on background
+
+
+set then on submit validdate
+Form - onSubmit:
+  - validate scores
+    - score {obtainable/obtained} must be positive number - onChange
+    - score must not be empty - onSubmit
+    - score obtainable must be greaterthan or equal to score obtained. - onSubmit 
+  - set scores in context - onSubmit
+  - onChange clear error message if any.
+  - onChange set both score to null, null, 
+useErrorMsg - hook:
+  display different error messages
+  make validation component as hook
+
+percentage - calculation
+- calculate and display percentage
+- Just be 0% only calculate when scores are set. use NaN || 0
+- score will only be set if valid else 0 - check if scores are set
+
+       
+next - local storage
+
+spent hours reloading gh-pages
+spent hours debugging - did not wrap  app in context
+  - i learnt as a result that if nothing in a component changes. that component is not re rendered
