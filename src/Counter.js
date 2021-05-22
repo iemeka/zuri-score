@@ -1,7 +1,7 @@
 import React from "react";
-import Percentage from './Percentage'
-import Form from './Form'
-
+import Percentage from "./Percentage";
+import Form from "./Form";
+import "./Counter.css";
 
 export default function Counter() {
   return (

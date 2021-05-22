@@ -1,9 +1,9 @@
 working app
   - working percentage calculation : checked.
-Error handling and validation - 
+Error handling and validation - : checked.
   - display Error
   - remove error message
-Optimization - useRef, useCallback, useEFfect.. etc.
+Optimization - useRef, useCallback, useEFfect.. etc. - checked.
 Styling
   - Dribble
     - background - #2b3136

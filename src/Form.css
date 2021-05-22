@@ -1,0 +1,40 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  padding-top:30px;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 150px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.form .error-message {
+  min-height: 22px;
+  display: flex;
+  justify-content: center;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.form .error-message span {
+  text-align: center;
+  text-transform: lowercase;
+  font-size: 0.9em;
+  color: #ff8049;
+}
+
+.form input {
+  font-size: 1.5em;
+  width: 100%;
+  text-align: center;
+  background-color: transparent;
+  border: 0px;
+  border-bottom: 2px solid #52575b;
+  color: #fff;
+}
+
+.form input:focus {
+  outline: none;
+}

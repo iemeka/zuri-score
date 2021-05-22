@@ -6,8 +6,14 @@ function App() {
   return (
     <div className="container">
       <ContextProvider>
-        <div>Zuri Training!</div>
-        <Counter />
+        <div className="zuri-head">
+          <h1 id="title">
+          Zuri Training
+          </h1>
+        </div>
+        <div className="zuri-body">
+          <Counter />
+        </div>
       </ContextProvider>
     </div>
   );
