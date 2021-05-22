@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zuri-score/static/css/main.66318ae4.chunk.css",
+    "main.css": "/zuri-score/static/css/main.2983dcc9.chunk.css",
     "main.js": "/zuri-score/static/js/main.768be66a.chunk.js",
     "main.js.map": "/zuri-score/static/js/main.768be66a.chunk.js.map",
     "runtime-main.js": "/zuri-score/static/js/runtime-main.65cef05a.js",
@@ -8,13 +8,13 @@
     "static/js/2.efd6a11b.chunk.js": "/zuri-score/static/js/2.efd6a11b.chunk.js",
     "static/js/2.efd6a11b.chunk.js.map": "/zuri-score/static/js/2.efd6a11b.chunk.js.map",
     "index.html": "/zuri-score/index.html",
-    "static/css/main.66318ae4.chunk.css.map": "/zuri-score/static/css/main.66318ae4.chunk.css.map",
+    "static/css/main.2983dcc9.chunk.css.map": "/zuri-score/static/css/main.2983dcc9.chunk.css.map",
     "static/js/2.efd6a11b.chunk.js.LICENSE.txt": "/zuri-score/static/js/2.efd6a11b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.65cef05a.js",
     "static/js/2.efd6a11b.chunk.js",
-    "static/css/main.66318ae4.chunk.css",
+    "static/css/main.2983dcc9.chunk.css",
     "static/js/main.768be66a.chunk.js"
   ]
 }
